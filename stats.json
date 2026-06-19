@@ -1,1 +1,12 @@
-{"totalSaves":0,"totalMastered":0,"totalUnmastered":0,"dailyStats":{}}
+{
+  "totalSaves": 1,
+  "totalMastered": 0,
+  "totalUnmastered": 0,
+  "dailyStats": {
+    "2026-06-19": {
+      "saves": 1,
+      "mastered": 0,
+      "unmastered": 0
+    }
+  }
+}
