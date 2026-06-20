@@ -83,6 +83,12 @@
       "action": "save",
       "details": "Training: Custom Sandbox",
       "date": "2026-06-20"
+    },
+    {
+      "timestamp": "2026-06-20T04:09:49.689Z",
+      "action": "unmastered",
+      "details": "Best Time to Buy And Sell Stock",
+      "date": "2026-06-20"
     }
   ]
 }
