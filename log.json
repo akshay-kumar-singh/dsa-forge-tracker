@@ -167,6 +167,12 @@
       "action": "mastered",
       "details": "Median of Two Sorted Arrays",
       "date": "2026-06-22"
+    },
+    {
+      "timestamp": "2026-06-23T05:34:46.828Z",
+      "action": "unmastered",
+      "details": "Median of Two Sorted Arrays",
+      "date": "2026-06-23"
     }
   ]
 }
