@@ -1,7 +1,7 @@
 {
   "totalSaves": 24,
   "totalMastered": 11,
-  "totalUnmastered": 7,
+  "totalUnmastered": 8,
   "dailyStats": {
     "2026-06-19": {
       "saves": 1,
@@ -37,6 +37,11 @@
       "saves": 1,
       "mastered": 0,
       "unmastered": 0
+    },
+    "2026-06-28": {
+      "saves": 0,
+      "mastered": 0,
+      "unmastered": 1
     }
   }
 }
