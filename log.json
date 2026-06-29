@@ -269,6 +269,12 @@
       "action": "mastered",
       "details": "Permutation In String",
       "date": "2026-06-29"
+    },
+    {
+      "timestamp": "2026-06-29T05:32:19.030Z",
+      "action": "unmastered",
+      "details": "Permutation In String",
+      "date": "2026-06-29"
     }
   ]
 }
