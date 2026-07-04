@@ -323,6 +323,12 @@
       "action": "mastered",
       "details": "Minimum Window Substring",
       "date": "2026-07-04"
+    },
+    {
+      "timestamp": "2026-07-04T10:18:28.842Z",
+      "action": "unmastered",
+      "details": "Minimum Window Substring",
+      "date": "2026-07-04"
     }
   ]
 }
