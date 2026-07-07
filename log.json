@@ -383,6 +383,12 @@
       "action": "mastered",
       "details": "Sliding Window Maximum",
       "date": "2026-07-07"
+    },
+    {
+      "timestamp": "2026-07-07T10:15:40.492Z",
+      "action": "mastered",
+      "details": "Reverse Linked List",
+      "date": "2026-07-07"
     }
   ]
 }
