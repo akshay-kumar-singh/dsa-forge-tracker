@@ -557,6 +557,12 @@
       "action": "save",
       "details": "LRU Cache",
       "date": "2026-07-23"
+    },
+    {
+      "timestamp": "2026-07-31T07:26:50.450Z",
+      "action": "save",
+      "details": "Merge K Sorted Lists",
+      "date": "2026-07-31"
     }
   ]
 }
