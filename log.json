@@ -581,6 +581,12 @@
       "action": "mastered",
       "details": "Reverse Nodes In K Group",
       "date": "2026-08-04"
+    },
+    {
+      "timestamp": "2026-08-11T06:29:40.053Z",
+      "action": "mastered",
+      "details": "Invert Binary Tree",
+      "date": "2026-08-11"
     }
   ]
 }
