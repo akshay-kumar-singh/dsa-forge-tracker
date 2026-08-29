@@ -617,6 +617,12 @@
       "action": "mastered",
       "details": "Maximum Depth of Binary Tree",
       "date": "2026-08-19"
+    },
+    {
+      "timestamp": "2026-08-29T05:42:31.783Z",
+      "action": "save",
+      "details": "Diameter of Binary Tree",
+      "date": "2026-08-29"
     }
   ]
 }
