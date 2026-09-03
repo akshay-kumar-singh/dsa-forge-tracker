@@ -731,6 +731,12 @@
       "action": "save",
       "details": "Kth Smallest Element In a Bst",
       "date": "2026-09-03"
+    },
+    {
+      "timestamp": "2026-09-03T07:28:10.868Z",
+      "action": "mastered",
+      "details": "Kth Smallest Element In a Bst",
+      "date": "2026-09-03"
     }
   ]
 }
