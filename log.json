@@ -737,6 +737,12 @@
       "action": "mastered",
       "details": "Kth Smallest Element In a Bst",
       "date": "2026-09-03"
+    },
+    {
+      "timestamp": "2026-09-03T07:51:45.815Z",
+      "action": "mastered",
+      "details": "Construct Binary Tree From Preorder And Inorder Traversal",
+      "date": "2026-09-03"
     }
   ]
 }
