@@ -1,0 +1,32 @@
+{
+  "totals": {
+    "save": 0,
+    "mastered": 0,
+    "unmastered": 0,
+    "revised": 0,
+    "design": 0,
+    "story": 0,
+    "mock": 0,
+    "day": 1,
+    "gate": 0,
+    "drill": 0,
+    "referral": 0,
+    "apply": 0
+  },
+  "dailyStats": {
+    "2026-09-21": {
+      "save": 0,
+      "mastered": 0,
+      "unmastered": 0,
+      "revised": 0,
+      "design": 0,
+      "story": 0,
+      "mock": 0,
+      "day": 1,
+      "gate": 0,
+      "drill": 0,
+      "referral": 0,
+      "apply": 0
+    }
+  }
+}
