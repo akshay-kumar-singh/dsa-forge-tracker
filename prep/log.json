@@ -311,6 +311,12 @@
       "action": "gate",
       "details": "Gate 0 · Referral map: 25 named people, nobody contacted yet",
       "date": "2026-09-29"
+    },
+    {
+      "timestamp": "2026-09-29T12:31:42.136Z",
+      "action": "gate",
+      "details": "Gate 0 · You can say how mastery, revision and the plan checkboxes connect",
+      "date": "2026-09-29"
     }
   ]
 }
