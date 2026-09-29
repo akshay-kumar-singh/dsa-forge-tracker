@@ -281,6 +281,12 @@
       "action": "save",
       "details": "Subarray Sum Equals K",
       "date": "2026-09-29"
+    },
+    {
+      "timestamp": "2026-09-29T06:45:04.458Z",
+      "action": "mastered",
+      "details": "Subarray Sum Equals K",
+      "date": "2026-09-29"
     }
   ]
 }
