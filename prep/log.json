@@ -317,6 +317,12 @@
       "action": "gate",
       "details": "Gate 0 · You can say how mastery, revision and the plan checkboxes connect",
       "date": "2026-09-29"
+    },
+    {
+      "timestamp": "2026-09-30T05:57:37.578Z",
+      "action": "mock",
+      "details": "coding · Maximum Subarray · ungraded Ungraded",
+      "date": "2026-09-30"
     }
   ]
 }
