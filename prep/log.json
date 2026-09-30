@@ -323,6 +323,12 @@
       "action": "mock",
       "details": "coding · Maximum Subarray · ungraded Ungraded",
       "date": "2026-09-30"
+    },
+    {
+      "timestamp": "2026-09-30T05:58:17.963Z",
+      "action": "mastered",
+      "details": "Maximum Subarray",
+      "date": "2026-09-30"
     }
   ]
 }
