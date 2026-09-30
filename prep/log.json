@@ -377,6 +377,12 @@
       "action": "mastered",
       "details": "Maximum Subarray",
       "date": "2026-09-30"
+    },
+    {
+      "timestamp": "2026-09-30T06:24:30.987Z",
+      "action": "mock",
+      "details": "coding · Contiguous Array · 2.5 No hire",
+      "date": "2026-09-30"
     }
   ]
 }
