@@ -569,6 +569,12 @@
       "action": "mastered",
       "details": "Longest Repeating Character Replacement",
       "date": "2026-10-04"
+    },
+    {
+      "timestamp": "2026-10-04T03:13:19.626Z",
+      "action": "save",
+      "details": "Subarrays with K Different Integers",
+      "date": "2026-10-04"
     }
   ]
 }
