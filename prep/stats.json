@@ -1,6 +1,6 @@
 {
   "totals": {
-    "save": 39,
+    "save": 40,
     "mastered": 24,
     "unmastered": 2,
     "revised": 9,
@@ -164,6 +164,21 @@
       "mastered": 3,
       "unmastered": 0,
       "revised": 3,
+      "design": 0,
+      "story": 0,
+      "mock": 0,
+      "day": 0,
+      "gate": 0,
+      "drill": 0,
+      "referral": 0,
+      "apply": 0,
+      "comprehension": 0
+    },
+    "2026-10-04": {
+      "save": 1,
+      "mastered": 0,
+      "unmastered": 0,
+      "revised": 0,
       "design": 0,
       "story": 0,
       "mock": 0,
