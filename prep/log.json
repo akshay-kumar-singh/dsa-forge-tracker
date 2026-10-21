@@ -1331,6 +1331,12 @@
       "action": "save",
       "details": "Kth Smallest Element in a Sorted Matrix",
       "date": "2026-10-21"
+    },
+    {
+      "timestamp": "2026-10-21T05:54:17.895Z",
+      "action": "mastered",
+      "details": "Kth Smallest Element in a Sorted Matrix",
+      "date": "2026-10-21"
     }
   ]
 }
