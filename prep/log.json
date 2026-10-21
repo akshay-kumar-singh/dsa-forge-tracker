@@ -1301,6 +1301,12 @@
       "action": "mastered",
       "details": "Maximum Candies Allocated to K Children",
       "date": "2026-10-20"
+    },
+    {
+      "timestamp": "2026-10-21T05:10:27.979Z",
+      "action": "save",
+      "details": "Find First and Last Position of Element in Sorted Array",
+      "date": "2026-10-21"
     }
   ]
 }
