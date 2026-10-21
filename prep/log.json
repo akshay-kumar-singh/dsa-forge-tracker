@@ -1367,6 +1367,12 @@
       "action": "save",
       "details": "Find Minimum in Rotated Sorted Array",
       "date": "2026-10-21"
+    },
+    {
+      "timestamp": "2026-10-21T06:11:54.573Z",
+      "action": "mastered",
+      "details": "Find Minimum in Rotated Sorted Array",
+      "date": "2026-10-21"
     }
   ]
 }
