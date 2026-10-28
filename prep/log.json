@@ -1619,6 +1619,12 @@
       "action": "revised",
       "details": "Substring with Concatenation of All Words",
       "date": "2026-10-28"
+    },
+    {
+      "timestamp": "2026-10-28T06:52:11.363Z",
+      "action": "mastered",
+      "details": "Next Greater Element II",
+      "date": "2026-10-28"
     }
   ]
 }
