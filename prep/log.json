@@ -1811,6 +1811,12 @@
       "action": "day",
       "details": "Day 61 · Thu 19 Nov · W6 Linked lists, fast & slow pointers",
       "date": "2026-11-15"
+    },
+    {
+      "timestamp": "2026-11-18T10:51:39.747Z",
+      "action": "save",
+      "details": "Remove Nth Node From End of List",
+      "date": "2026-11-18"
     }
   ]
 }
